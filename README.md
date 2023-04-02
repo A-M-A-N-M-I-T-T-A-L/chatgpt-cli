@@ -1,4 +1,4 @@
-# ChatGPT CLI APP
+# ChatGPT CLI App
 
 This is a Node.js project which allows programmers to use ChatGPT directly from the terminal without having to leave their IDE.
 
